@@ -1,5 +1,4 @@
-# vite-threejs
-
+# 3D Sphere using threejs
 Move to the repository you want to add the project to in the terminal.
 Clone the repository by running `git clone https://github.com/garimaneuphony/vite-threejs.git`.
 Run `npm i` in the terminal to add node_modules required for the project. 
